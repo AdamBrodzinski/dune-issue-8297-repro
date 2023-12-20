@@ -1,0 +1,6 @@
+(include_subdirs qualified)
+
+(executable
+ (public_name repro)
+ (name main)
+ (libraries repro))
